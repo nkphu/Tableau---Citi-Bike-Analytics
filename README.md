@@ -10,13 +10,10 @@ Links:
 
 Dashboard 1
 1. https://public.tableau.com/views/CitibikeNYCAnalytics/Dashboard1?:language=en-US&:retry=yes&:display_count=n&:origin=viz_share_link 
-2. https://public.tableau.com/views/CitibikeNYCAnalytics-Datavisualisation16/TotalNumberofTripsfromAug-Dec2021table?:language=en-US&:display_count=n&:origin=viz_share_link
 
 Data Visualisation
 1. https://public.tableau.com/views/CitibikeNYCAnalytics-DataVisualisation1/TotalNumberofTripsfromAug-Dec21chart?:language=en-US&:retry=yes&:display_count=n&:origin=viz_share_link
-2. https://public.tableau.com/views/CitibikeNYCAnalytics-DataVisualisation2/Top10stationsforstartingajourney?:language=en-US&:display_count=n&:origin=viz_share_link
-3. https://public.tableau.com/views/CitibikeNYCAnalytics-DataVisualisation15/No_ofsubscriberschart?:language=en-US&:display_count=n&:origin=viz_share_link
-
+2. https://public.tableau.com/views/CitibikeNYCAnalytics-Datavisualisation16/TotalNumberofTripsfromAug-Dec2021table?:language=en-US&:retry=yes&:display_count=n&:origin=viz_share_link
 
 Q2. What are the top 10 stations in the city for starting a journey? 
 
