@@ -57,7 +57,7 @@ Dashboard 2
 
 
 Q3. What are the Bottom 10 stations in the city for starting a journey?
-Based on December 2021 Citibike data, these are the bottom 10 least used stations in the city for starting a journey;
+Based on December 2021 Citibike data, these are the bottom 10 least used stations in the city for starting a journey:
 
     1. Grant Ave & Mlk Dr
     2. Bergen Ave & Stegman St
@@ -73,9 +73,9 @@ Based on December 2021 Citibike data, these are the bottom 10 least used station
 Links:
 Data Visualisation
 1. https://public.tableau.com/views/CitibikeNYCAnalytics-DataVisualisation3/Bottom10stationsforstartingajourney2?:language=en-US&:display_count=n&:origin=viz_share_link
-2. https://public.tableau.com/views/CitibikeNYCAnalytics-DataVisualisation12/Bottom10stationsinthecityforendingajourney2?:language=en-US&:display_count=n&:origin=viz_share_link
 
-Based on December 2021 Citibike data, these are the bottom 10 least used stations in the city for ending a journey;
+
+Based on December 2021 Citibike data, these are the bottom 10 least used stations in the city for ending a journey:
 
     1. Hudson St & Reade St
     2. North Moore St & Greenwich St
@@ -87,9 +87,11 @@ Based on December 2021 Citibike data, these are the bottom 10 least used station
     8. W 37 St & 5 Ave
     9. West St & Chambers St
     10. Wythe Ave & Metropolitan Ave
-
 Links:
-Dashboard 3
+Data Visualisation
+1. https://public.tableau.com/views/CitibikeNYCAnalytics-DataVisualisation12/Bottom10stationsinthecityforendingajourney2?:language=en-US&:display_count=n&:origin=viz_share_link
+
+Dashboard 
 1. https://public.tableau.com/views/CitibikeNYCAnalytics-Dashboard3/Dashboard3?:language=en-US&:display_count=n&:origin=viz_share_link
 
 Q4. How has the proportion of short-term customers and annual subscribers changed? 
