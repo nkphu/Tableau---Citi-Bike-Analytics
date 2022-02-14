@@ -1,22 +1,22 @@
 # Tableau---Citi-Bike-Analytics
 (Analysis on phenomenons)
 
-1. How many trips have been recorded total during the chosen period? 
+Q1. How many trips have been recorded total during the chosen period? 
 The Citibike data from August to December 2021 was merged together to compare the total number of trips across the last five months.
 The highest number of trips was 97,290 in September, followed by August 93,800, October 88,768,  November 60,061 ,and December 48,021.  
 
 Links: 
 Dashboard 1
-https://public.tableau.com/views/CitibikeNYCAnalytics/Dashboard1?:language=en-US&:retry=yes&:display_count=n&:origin=viz_share_link 
-https://public.tableau.com/views/CitibikeNYCAnalytics-Datavisualisation16/TotalNumberofTripsfromAug-Dec2021table?:language=en-US&:display_count=n&:origin=viz_share_link
+1. https://public.tableau.com/views/CitibikeNYCAnalytics/Dashboard1?:language=en-US&:retry=yes&:display_count=n&:origin=viz_share_link 
+2. https://public.tableau.com/views/CitibikeNYCAnalytics-Datavisualisation16/TotalNumberofTripsfromAug-Dec2021table?:language=en-US&:display_count=n&:origin=viz_share_link
 
 Data Visualisation
-https://public.tableau.com/views/CitibikeNYCAnalytics-DataVisualisation1/TotalNumberofTripsfromAug-Dec21chart?:language=en-US&:retry=yes&:display_count=n&:origin=viz_share_link
-https://public.tableau.com/views/CitibikeNYCAnalytics-DataVisualisation2/Top10stationsforstartingajourney?:language=en-US&:display_count=n&:origin=viz_share_link
-https://public.tableau.com/views/CitibikeNYCAnalytics-DataVisualisation15/No_ofsubscriberschart?:language=en-US&:display_count=n&:origin=viz_share_link
+1. https://public.tableau.com/views/CitibikeNYCAnalytics-DataVisualisation1/TotalNumberofTripsfromAug-Dec21chart?:language=en-US&:retry=yes&:display_count=n&:origin=viz_share_link
+2. https://public.tableau.com/views/CitibikeNYCAnalytics-DataVisualisation2/Top10stationsforstartingajourney?:language=en-US&:display_count=n&:origin=viz_share_link
+3. https://public.tableau.com/views/CitibikeNYCAnalytics-DataVisualisation15/No_ofsubscriberschart?:language=en-US&:display_count=n&:origin=viz_share_link
 
 
-2. What are the top 10 stations in the city for starting a journey? 
+Q2. What are the top 10 stations in the city for starting a journey? 
 Based on December 2021 Citibike data, these are the top 10 frequently used stations in the city for starting a journey;
     1. Grove St Path
     2. Hoboken Terminal - River St & Hudson Pl
@@ -31,9 +31,9 @@ Based on December 2021 Citibike data, these are the top 10 frequently used stati
 
 Links:
 Data Visualisation
-https://public.tableau.com/views/CitibikeNYCAnalytics-DataVisualisation2/Top10stationsforstartingajourney?:language=en-US&:retry=yes&:display_count=n&:origin=viz_share_link
-https://public.tableau.com/views/CitibikeNYCAnalytics-DataVisualisation9/Top10stationsinthecityforstartingajourney?:language=en-US&:display_count=n&:origin=viz_share_link
-https://public.tableau.com/views/CitibikeNYCAnalytics-DataVisualisation10/Popularityofstationforstartingajourney?:language=en-US&:display_count=n&:origin=viz_share_link
+1. https://public.tableau.com/views/CitibikeNYCAnalytics-DataVisualisation2/Top10stationsforstartingajourney?:language=en-US&:retry=yes&:display_count=n&:origin=viz_share_link
+2. https://public.tableau.com/views/CitibikeNYCAnalytics-DataVisualisation9/Top10stationsinthecityforstartingajourney?:language=en-US&:display_count=n&:origin=viz_share_link
+3. https://public.tableau.com/views/CitibikeNYCAnalytics-DataVisualisation10/Popularityofstationforstartingajourney?:language=en-US&:display_count=n&:origin=viz_share_link
 
 These are the top 10 frequenctly used stations in the city for ending a journey;
     1. Grove St Path
@@ -49,14 +49,14 @@ These are the top 10 frequenctly used stations in the city for ending a journey;
 
 Links:
 Data Visualisation
-https://public.tableau.com/views/CitibikeNYCAnalytics-DataVisualisation11/Top10stationsinthecityforendingajourney?:language=en-US&:display_count=n&:origin=viz_share_link
-https://public.tableau.com/views/CitibikeNYCAnalytics-DataVisualisation13/Popularityofstationforendingajourney?:language=en-US&:display_count=n&:origin=viz_share_link
+1. https://public.tableau.com/views/CitibikeNYCAnalytics-DataVisualisation11/Top10stationsinthecityforendingajourney?:language=en-US&:display_count=n&:origin=viz_share_link
+2. https://public.tableau.com/views/CitibikeNYCAnalytics-DataVisualisation13/Popularityofstationforendingajourney?:language=en-US&:display_count=n&:origin=viz_share_link
 
 Dashboard 2
-https://public.tableau.com/views/CitibikeNYCAnalytics-Dashboard2/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link
+1. https://public.tableau.com/views/CitibikeNYCAnalytics-Dashboard2/Dashboard2?:language=en-US&:display_count=n&:origin=viz_share_link
 
 
-3. What are the Bottom 10 stations in the city for starting a journey?
+Q3. What are the Bottom 10 stations in the city for starting a journey?
 Based on December 2021 Citibike data, these are the bottom 10 least used stations in the city for starting a journey;
 
     1. Grant Ave & Mlk Dr
@@ -72,8 +72,8 @@ Based on December 2021 Citibike data, these are the bottom 10 least used station
 
 Links:
 Data Visualisation
-https://public.tableau.com/views/CitibikeNYCAnalytics-DataVisualisation3/Bottom10stationsforstartingajourney2?:language=en-US&:display_count=n&:origin=viz_share_link
-https://public.tableau.com/views/CitibikeNYCAnalytics-DataVisualisation12/Bottom10stationsinthecityforendingajourney2?:language=en-US&:display_count=n&:origin=viz_share_link
+1. https://public.tableau.com/views/CitibikeNYCAnalytics-DataVisualisation3/Bottom10stationsforstartingajourney2?:language=en-US&:display_count=n&:origin=viz_share_link
+2. https://public.tableau.com/views/CitibikeNYCAnalytics-DataVisualisation12/Bottom10stationsinthecityforendingajourney2?:language=en-US&:display_count=n&:origin=viz_share_link
 
 Based on December 2021 Citibike data, these are the bottom 10 least used stations in the city for ending a journey;
 
@@ -90,36 +90,36 @@ Based on December 2021 Citibike data, these are the bottom 10 least used station
 
 Links:
 Dashboard 3
-https://public.tableau.com/views/CitibikeNYCAnalytics-Dashboard3/Dashboard3?:language=en-US&:display_count=n&:origin=viz_share_link
+1. https://public.tableau.com/views/CitibikeNYCAnalytics-Dashboard3/Dashboard3?:language=en-US&:display_count=n&:origin=viz_share_link
 
-4. How has the proportion of short-term customers and annual subscribers changed? 
+Q4. How has the proportion of short-term customers and annual subscribers changed? 
 Based on the last five months, there has been a decline in short term casual customers. At the start of August there were 52,769 casual members which dropped to 15,045 in December. 
 However, there is an increase in annual subscribers from 41,031 in August to 54,202 in October. Followed by a dropping in December to 32,976 subscribers in December which could be due to the colder weather change. 
 
 Links:
 Data Visualisation
-https://public.tableau.com/views/CitibikeNYCAnalytics-DataVisualisation14/Proportionofshort-termcustomersandannualsubscribers?:language=en-US&:display_count=n&:origin=viz_share_link
-https://public.tableau.com/views/CitibikeNYCAnalytics-DataVisualisation15/No_ofsubscriberschart?:language=en-US&:display_count=n&:origin=viz_share_link
+1. https://public.tableau.com/views/CitibikeNYCAnalytics-DataVisualisation14/Proportionofshort-termcustomersandannualsubscribers?:language=en-US&:display_count=n&:origin=viz_share_link
+2. https://public.tableau.com/views/CitibikeNYCAnalytics-DataVisualisation15/No_ofsubscriberschart?:language=en-US&:display_count=n&:origin=viz_share_link
 
-5. What are the peak hours in which bikes are used during the fall months? 
+Q5. What are the peak hours in which bikes are used during the fall months? 
 The peak hours in which the bikes are used during the fall months is between 5pm - 6pm. 
 
 Links:
 Data Visualisation
-https://public.tableau.com/views/CitibikeNYCAnalytics-DataVisualisation4/PeaktimeforuserstostartajourneyinAugust2021?:language=en-US&:display_count=n&:origin=viz_share_link
-https://public.tableau.com/views/CitibikeNYCAnalytics-DataVisualisation6/PeakhoursduringSeptember?:language=en-US&:display_count=n&:origin=viz_share_link
-https://public.tableau.com/views/CitibikeNYCAnalytics-DataVisualisation7/PeakhoursduringOctober?:language=en-US&:display_count=n&:origin=viz_share_link
-https://public.tableau.com/views/CitibikeNYCAnalytics-DataVisualisation8/PeakhourduringNovember?:language=en-US&:display_count=n&:origin=viz_share_link
-https://public.tableau.com/views/CitibikeNYCAnalytics-DataVisualisation5/PeaktimeforuserstostartajourneyinAugust20212?:language=en-US&:display_count=n&:origin=viz_share_link
+1. https://public.tableau.com/views/CitibikeNYCAnalytics-DataVisualisation4/PeaktimeforuserstostartajourneyinAugust2021?:language=en-US&:display_count=n&:origin=viz_share_link
+2. https://public.tableau.com/views/CitibikeNYCAnalytics-DataVisualisation6/PeakhoursduringSeptember?:language=en-US&:display_count=n&:origin=viz_share_link
+3. https://public.tableau.com/views/CitibikeNYCAnalytics-DataVisualisation7/PeakhoursduringOctober?:language=en-US&:display_count=n&:origin=viz_share_link
+4. https://public.tableau.com/views/CitibikeNYCAnalytics-DataVisualisation8/PeakhourduringNovember?:language=en-US&:display_count=n&:origin=viz_share_link
+5. https://public.tableau.com/views/CitibikeNYCAnalytics-DataVisualisation5/PeaktimeforuserstostartajourneyinAugust20212?:language=en-US&:display_count=n&:origin=viz_share_link
 
 Dashboard 3
-https://public.tableau.com/views/CitibikeNYCAnalytics-Dashboard3/Dashboard3?:language=en-US&:display_count=n&:origin=viz_share_link
+1. https://public.tableau.com/views/CitibikeNYCAnalytics-Dashboard3/Dashboard3?:language=en-US&:display_count=n&:origin=viz_share_link
 
 City Map: 
 Start of Journey
-https://public.tableau.com/views/CitibikeNYCAnalytics-CityMapStartofJourney/Citymap-startjourney?:language=en-US&:display_count=n&:origin=viz_share_link
+1. https://public.tableau.com/views/CitibikeNYCAnalytics-CityMapStartofJourney/Citymap-startjourney?:language=en-US&:display_count=n&:origin=viz_share_link
 End of Journey
-https://public.tableau.com/views/CitibikeNYCAnalytics-CityMapEndofJourney/Citymap-endjourney?:language=en-US&:display_count=n&:origin=viz_share_link
+2. https://public.tableau.com/views/CitibikeNYCAnalytics-CityMapEndofJourney/Citymap-endjourney?:language=en-US&:display_count=n&:origin=viz_share_link
 
 Story:
-https://public.tableau.com/shared/JHFDCJMQ2?:display_count=n&:origin=viz_share_link
+1. https://public.tableau.com/shared/JHFDCJMQ2?:display_count=n&:origin=viz_share_link
