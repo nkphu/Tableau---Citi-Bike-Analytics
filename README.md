@@ -17,7 +17,7 @@ Data Visualisation
 
 
 Q2. What are the top 10 stations in the city for starting a journey? 
-Based on December 2021 Citibike data, these are the top 10 frequently used stations in the city for starting a journey;
+Based on December 2021 Citibike data, these are the top 10 frequently used stations in the city for starting a journey:
     1. Grove St Path
     2. Hoboken Terminal - River St & Hudson Pl
     3. Sip Ave
@@ -35,7 +35,7 @@ Data Visualisation
 2. https://public.tableau.com/views/CitibikeNYCAnalytics-DataVisualisation9/Top10stationsinthecityforstartingajourney?:language=en-US&:display_count=n&:origin=viz_share_link
 3. https://public.tableau.com/views/CitibikeNYCAnalytics-DataVisualisation10/Popularityofstationforstartingajourney?:language=en-US&:display_count=n&:origin=viz_share_link
 
-These are the top 10 frequenctly used stations in the city for ending a journey;
+These are the top 10 frequenctly used stations in the city for ending a journey:
     1. Grove St Path
     2. Hoboken Terminal - River St & Hudson Pl
     3. Hoboken Terminal - Hudson St & Hudson Pl
