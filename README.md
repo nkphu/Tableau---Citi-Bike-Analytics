@@ -7,6 +7,10 @@ The highest number of trips was 97,290 in September, followed by August 93,800, 
 
 (Pls refer to data visualisation - Dashboard 1) 
 
+https://public.tableau.com/views/CitibikeNYCAnalytics/Dashboard1?:language=en-US&:retry=yes&:display_count=n&:origin=viz_share_link 
+
+
+
 2. What are the top 10 stations in the city for starting a journey? 
 Based on December 2021 Citibike data, these are the top 10 frequently used stations in the city for starting a journey;
     1. Grove St Path
